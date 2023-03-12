@@ -1,0 +1,14 @@
+[
+{"country" : "UAE",      "lite" : "5.4",  "classic" : "10.9", "premium" : "16.3"},
+{"country" : "Egypt",    "lite" : "0.25", "classic" : "0.5",  "premium" : "1"},
+{"country" : "Algeria",  "lite" : "2.7",  "classic" : "5.3",  "premium" : "8"},
+{"country" : "Djibouti", "lite" : "2.4",  "classic" : "4.8",  "premium" : "7.2"},
+{"country" : "Chad",     "lite" : "2.4",  "classic" : "4.8",  "premium" : "7.2"},
+{"country" : "Jordan",   "lite" : "2.7",  "classic" : "5.2",  "premium" : "8"},
+{"country" : "Lebanon",  "lite" : "2.4",  "classic" : "4.8",  "premium" : "7.2"},
+{"country" : "Morocco",  "lite" : "2",    "classic" : "3.9",  "premium" : "5.8"},
+{"country" : "Oman",     "lite" : "5",    "classic" : "10",   "premium" : "15"},
+{"country" : "Tunisia",  "lite" : "1.7",  "classic" : "3.4",  "premium" : "5.8"},
+{"country" : "Yemen",    "lite" : "2.4",  "classic" : "4.8",  "premium" : "7.2"},
+{"country" : "Palestine","lite" : "2.4",  "classic": "4.8",   "premium" : "7.2"}
+]
